@@ -1,0 +1,52 @@
+{
+    "user" : {
+        "fullName": "Ayanda Zondo",
+        "photo" : "/images/images2.jpeg"
+    },
+    "city" : {
+        "name" : "Soweto",
+        "photo" : "/images/Soweto Image 1.jpeg",
+        "description" : "Soweto, the reason behind my interest in this particular city is because I was born here 22 years ago and later resided there for a few years. The diversity of people and cultures is breathtaking, the history behind this city remains to capture my interest."
+    },
+    "foreignLanguage" : {
+        "language" : "Igbo",
+        "phrases" : [{
+            "englishPhrase" : "I miss home",
+            "foreignLanguage" : "a na m atụ uche ụlọ"
+        },
+        {
+            "englishPhrase" : "School can be hard sometimes",
+            "foreignLanguage" : "Ụlọ akwụkwọ nwere ike isi ike mgbe ụfọdụ"
+        },
+        {
+            "englishPhrase" : "I got you shoes for your birthday",
+            "foreignLanguage" : "Enwetara m gị akpụkpọ ụkwụ maka ụbọchị ọmụmụ gị"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Business Management",
+            "description" : "Business Management module provides students with a holistic understanding of managing a business. It covers essential areas such as strategy, marketing, finance, operations, human resources, ethics, and sustainability"
+        },
+        {
+            "name" : "Information Portals ",
+            "description" : "Information Portals module equips students with the knowledge and skills to design, develop, and manage effective information portals. It covers user experience design, content management, information organization, security measures, analytics, and collaboration features to create portals that enhance information access and collaboration within organizations."
+        },
+        {
+            "name" : "Knowledge Management ",
+            "description" : "It equips students with the skills to effectively manage and leverage organizational knowledge for improved performance."
+        },
+        {
+            "name" : "Electronic Records Management  ",
+            "description" : "Electronic Records Management module equips students with the knowledge and skills to effectively manage digital records within organizations. It covers records classification, metadata management, storage and preservation, information security, legal compliance, and the use of technology in electronic records management."
+        },
+        {
+            "name" : "Web and Intranet Management ",
+            "description" : "The Web and Intranet Management module focuses on the planning, development, and maintenance of websites and intranets. It covers web design principles, user experience, and technical aspects of website development. Students learn about search engine optimization, web analytics, and intranet management strategies. The module aims to equip students with the skills to create user-friendly and interactive websites, improve search engine visibility, and manage secure and efficient intranet environments."
+        },
+        {
+            "name" : "Politics",
+            "description" : "The Politics module explores the theories, systems, and dynamics of politics, including government structures, political ideologies, and the analysis of political processes and institutions."
+        }
+    ]
+}
